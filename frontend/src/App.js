@@ -13,9 +13,9 @@ function App() {
       <div className='App'>
         <Nav />
         <Routes>
-          <Route path="Home" element={<Home/>} />
-          <Route path="Tutor" element={<Tutor/>} />
-          <Route path="Trainee" element={<Trainee/>} />
+          <Route path="Home" element={<Home />} />
+          <Route path="Tutor" element={<Tutor />} />
+          <Route path="Trainee" element={<Trainee />} />
         </Routes>
       </div>
     </Router>
@@ -24,15 +24,18 @@ function App() {
 const Home = () => (
   <div>
 
-    <h1> 10 Academy Home</h1>
-    <h2>Home Page</h2>
-    <h2> Enter your wallet ID</h2>
+    <h1> 10 Academy Algo Site</h1>
     <div style={{ marginLeft: '40%', marginTop: '60px', width: '30%' }}></div>
+    <label> Full Name:  </label>
+    <input class='input' type="text" placeholder="Name" />
+    <label> Wallet ID:  </label>
+    <input class='input' type="text" placeholder="Wallet ID" />
+
 
     <Box color="blue" bgcolor="palevioletred" p={1}>
       Enter
     </Box>
-    <ButtonClick /> 
+    <ButtonClick />
   </div>
 );
 export default App;

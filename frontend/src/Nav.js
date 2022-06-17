@@ -9,7 +9,7 @@ function Nav() {
     };
     return (
         <nav>
-            <Logo />
+            {/* <Logo /> */}
             <ul className="nav-links">
                 <Link style={navStyle} to="/Home">
                     <li>Home</li>

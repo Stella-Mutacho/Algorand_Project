@@ -6,9 +6,12 @@ function Home(){
     return (
     <div>
         <h1> 10 Academy Home</h1>
-        
-        <h2> Enter your wallet ID</h2>
         <div style={{ marginLeft: '40%', marginTop: '60px', width: '30%' }}></div>
+        <label> Full Name:  </label>
+        <input class='input' type="text" placeholder="Name" />
+        <label> Wallet ID:  </label>
+        <input class='input' type="text" placeholder="Wallet ID" />
+        
         
         <Box color="blue" bgcolor="palevioletred" p={1}>
         Enter
