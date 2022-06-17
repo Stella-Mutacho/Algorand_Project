@@ -14,8 +14,8 @@ function Tutor() {
             <label> Description: </label>
             <input className='in' type="text" placeholder="Description" /> <br />
             <small class='small'> description of this asset </small> <br /><br />'
-            <button id='button'> Generate Certificates </button>' <br /> <br />
-            <button id='button'> Register </button>'
+            <button id='button'> Generate Certificate </button>' <br /> <br />
+            <button id='button'> Deny Access </button>'
             <h1>Approve certificate</h1>
         </div>
     );

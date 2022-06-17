@@ -20,6 +20,9 @@ function Nav() {
                 <Link style={navStyle} to="/Tutor">
                     <li>Tutor</li>
                 </Link>
+                <Link style={navStyle} to="/Donate">
+                    <li>Donate</li>
+                </Link>
 
             </ul>
         </nav>
