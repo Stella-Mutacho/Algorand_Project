@@ -4,6 +4,7 @@ import Box from '@material-ui/core/Box';
 import ButtonClick from "./button.js"
 import Trainee from "./Trainee.js";
 import Tutor from "./Tutor.js";
+import Donate from "./donate.js";
 import Nav from "./Nav.js";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -16,6 +17,7 @@ function App() {
           <Route path="Home" element={<Home />} />
           <Route path="Tutor" element={<Tutor />} />
           <Route path="Trainee" element={<Trainee />} />
+          <Route path="Donate" element={<Donate />} />
         </Routes>
       </div>
     </Router>

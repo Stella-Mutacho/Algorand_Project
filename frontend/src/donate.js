@@ -1,13 +1,17 @@
 import React from "react";
 import './App.css';
-function Trainee() {
+function Donate() {
     return (
         <div>
-            <h1> 10 Academy   trainee page</h1>
+            <h1> 10 Academy   Donor page</h1>
 
             <label> Full Name:  </label>
             <input class='input' type="text" placeholder="Name" /> <br />
             <small class='small'> Please Enter you name </small>
+            <br /><br />
+            <label> Phone Number:  </label>
+            <input class='input' type="text" placeholder="Number" /> <br />
+            <small class='small'> Please Enter you mobile Number </small>
             <br /><br />
             <label> Asset:  </label>
             <input class='input' name="phone" type="text" placeholder="Unit Name" /> <br />
@@ -15,10 +19,10 @@ function Trainee() {
             <label> Description: </label>
             <input className='in' type="text" placeholder="Description" /> <br />
             <small class='small'> Description </small> <br /><br />'
-            <button id='button'> Request Certificate </button>' <br /> <br /> 
-            <button id='button'> Download certificate </button>' <br />  <br />
+            <button id='button'> Donate</button>' <br />  <br />
+            <h3> Thank You for your Donation</h3>
         </div>
     );
 
 }
-export default Trainee;
+export default Donate;
