@@ -16,7 +16,7 @@ function Tutor() {
             <small class='small'> description of this asset </small> <br /><br />'
             <button id='button'> Generate Certificate </button>' <br /> <br />
             <button id='button'> Deny Access </button>'
-            <h1>Approve certificate</h1>
+            
         </div>
     );
 
