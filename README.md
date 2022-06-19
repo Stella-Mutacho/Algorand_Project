@@ -5,18 +5,19 @@ In this project, the client is 10 Academy; the client would like to solve the ch
 
 The aim of this project was to build end-to-end Web3 dapps on the Algorand Blockchain that will help 10 Academy generate and distribute Non-Fungible Tokens (NFTs) as certificates that will represent the successful completion of a weekly challenge to trainees, and allow trainees with NFTs to interact with a smart contract to perform pre-defined actions.
 **Technologies utilized**
-Docker
-node js
-algorand sandbox
-Frontend- react
-Backend-Django framework
-Deployment-Heroku
+- Docker
+- node js
+- algorand sandbox
+- Frontend- react
+- Backend-Django framework
+- Deployment-Heroku
 
 **Code Structure**
-Requirements for the project- requirements.txt
-Backend scripts- Algorand_project/backend
-Backend app-backend_API
-frontend scripts- Algorand_project/backend/frontend
-**To run the app on the web **
-npm run server
+. Requirements for the project- requirements.txt
+. Backend scripts- Algorand_project/backend
+. Backend app-backend_API
+. frontend scripts- Algorand_project/backend/frontend
+
+**To run the app on the web**
+    npm run server
 
