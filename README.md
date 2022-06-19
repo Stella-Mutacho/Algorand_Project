@@ -13,10 +13,10 @@ The aim of this project was to build end-to-end Web3 dapps on the Algorand Block
 - Deployment-Heroku
 
 **Code Structure**
-. Requirements for the project- requirements.txt
-. Backend scripts- Algorand_project/backend
-. Backend app-backend_API
-. frontend scripts- Algorand_project/backend/frontend
+- Requirements for the project- requirements.txt
+- Backend scripts- Algorand_project/backend
+- Backend app-backend_API
+- frontend scripts- Algorand_project/backend/frontend
 
 **To run the app on the web**
     npm run server
