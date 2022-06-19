@@ -1,7 +1,7 @@
+![image](https://user-images.githubusercontent.com/53911989/174500562-3d182b0c-069c-4956-b2b3-77267a1bfe3f.png)
 
 **Algorand Blockchain End-to-End Web3 DApps**
-**
-Project Overview**
+   **Project Overview**
 
 In this project, the client is 10 Academy; the client would like to solve the challenge of ensuring that certificates are available to all trainees in a secure way, and that certificate holders can benefit from smart contract actions now and in the future. At present, certificates are distributed as simple PDF files, without the ability to verify their authenticity nor can 10 Academy undertake smart actions with the trainees/their contracts.
 
@@ -21,3 +21,4 @@ Backend app-backend_API
 frontend scripts- Algorand_project/backend/frontend
 **To run the app on the web **
 npm run server
+
