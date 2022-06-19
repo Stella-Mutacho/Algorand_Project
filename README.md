@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/53911989/174500797-c322b787-c5aa-4eba-bad3-94cec6d3b0c7.png)
+
 **Algorand Blockchain End-to-End Web3 DApps**
    **Project Overview**
 
@@ -21,3 +23,4 @@ The aim of this project was to build end-to-end Web3 dapps on the Algorand Block
 **To run the app on the web**
     npm run server
 
+![image](https://user-images.githubusercontent.com/53911989/174500843-e1173380-e462-4f68-b141-1a7bf0d9dc23.png)
