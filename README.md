@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/53911989/174500562-3d182b0c-069c-4956-b2b3-77267a1bfe3f.png)
-
 **Algorand Blockchain End-to-End Web3 DApps**
    **Project Overview**
 
